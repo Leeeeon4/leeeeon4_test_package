@@ -2,4 +2,4 @@
 
 __author__ = """Leon Michel Gorißen"""
 __email__ = 'leon.gorissen@rwth-aachen.de'
-__version__ = '0.0.2'
+__version__ = '0.0.3'
