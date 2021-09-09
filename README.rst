@@ -41,5 +41,6 @@ This package was created with Cookiecutter_ and the `audreyr/cookiecutter-pypack
 .. _Cookiecutter: https://github.com/audreyr/cookiecutter
 .. _`audreyr/cookiecutter-pypackage`: https://github.com/audreyr/cookiecutter-pypackage
 
-This package was build as part of the Course:
-Creating and Distributing Python Packages: https://twoscoopspress.thinkific.com/courses/creating-and-distributing-python-packages
+This package was build as part of the Course: `Creating and Distributing Python Packages`_. 
+
+.. _`Creating and Distributing Python Packages`: https://twoscoopspress.thinkific.com/courses/creating-and-distributing-python-packages
