@@ -20,7 +20,7 @@ Leeeeon4 Test Package
 
 
 
-A test package created to learn best practices regarding creating packages based on the course: Creating and Distributing Python Packages - https://twoscoopspress.thinkific.com/courses/creating-and-distributing-python-packages
+A test package created to learn best practices regarding creating packages.
 
 
 * Free software: MIT license
@@ -30,7 +30,8 @@ A test package created to learn best practices regarding creating packages based
 Features
 --------
 
-* TODO
+* Can list ingredients as in presented course example.
+* This is just a test. 
 
 Credits
 -------
@@ -39,3 +40,6 @@ This package was created with Cookiecutter_ and the `audreyr/cookiecutter-pypack
 
 .. _Cookiecutter: https://github.com/audreyr/cookiecutter
 .. _`audreyr/cookiecutter-pypackage`: https://github.com/audreyr/cookiecutter-pypackage
+
+This package was build as part of the Course:
+Creating and Distributing Python Packages: https://twoscoopspress.thinkific.com/courses/creating-and-distributing-python-packages
