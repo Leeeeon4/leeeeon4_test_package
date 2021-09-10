@@ -1,14 +1,13 @@
 """Console script for leeeeon4_test_package."""
 import sys
 import click
-
+from leeeeon4_test_package.leeeeon4_test_package import ingredients
 
 @click.command()
-def main(args=None):
+@click.argument('count',type = int)
+def main(count):
     """Console script for leeeeon4_test_package."""
-    click.echo("Replace this message by putting your code into "
-               "leeeeon4_test_package.cli.main")
-    click.echo("See click documentation at https://click.palletsprojects.com/")
+    ingredients(count)
     return 0
 
 
