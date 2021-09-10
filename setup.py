@@ -25,18 +25,18 @@ test_requirements = [
 setup(
     author="Leon Michel Gorißen",
     author_email='leon.gorissen@rwth-aachen.de',
-    python_requires='>=3.6',
+    python_requires='>=3.7',
     classifiers=[
         'Development Status :: 2 - Pre-Alpha',
         'Intended Audience :: Developers',
         'License :: OSI Approved :: MIT License',
         'Natural Language :: English',
         'Programming Language :: Python :: 3',
-        'Programming Language :: Python :: 3.6',
         'Programming Language :: Python :: 3.7',
         'Programming Language :: Python :: 3.8',
+        'Programming Language :: Python :: 3.9',
     ],
-    description="A test package created to learn best practices regarding creating packages based on the course: Creating and Distributing Python Packages - https://twoscoopspress.thinkific.com/courses/creating-and-distributing-python-packages",
+    description="A test package created to learn best practices regarding creating packages",
     entry_points={
         'console_scripts': [
             'leeeeon4_test_package=leeeeon4_test_package.cli:main',
