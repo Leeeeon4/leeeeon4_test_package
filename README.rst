@@ -13,9 +13,8 @@ Leeeeon4 Test Package
         :target: https://leeeeon4-test-package.readthedocs.io/en/latest/?version=latest
         :alt: Documentation Status
 
-
-.. image:: https://pyup.io/repos/github/leeeeon4/leeeeon4_test_package/shield.svg
-     :target: https://pyup.io/repos/github/leeeeon4/leeeeon4_test_package/
+.. image:: https://pyup.io/repos/github/Leeeeon4/leeeeon4_test_package/shield.svg
+     :target: https://pyup.io/repos/github/Leeeeon4/leeeeon4_test_package/
      :alt: Updates
 
 
