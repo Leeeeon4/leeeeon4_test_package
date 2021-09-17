@@ -25,7 +25,7 @@ importlib-metadata==4.8.1
 iniconfig==1.1.1
 Jinja2==3.0.1
 jinja2-time==0.2.0
-keyring==23.1.0
+keyring==23.2.1
 leeeeon4-test-package==0.0.5
 MarkupSafe==2.0.1
 mccabe==0.6.1
